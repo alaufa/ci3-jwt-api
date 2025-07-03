@@ -23,7 +23,7 @@ C:/xampp/htdocs/ci3-jwt-api/
 ### 2. Buat Database
 
 - Nama database: `ci3_jwt`
-- Import file SQL jika disediakan, atau buat manual:
+- Import file SQL pada direktori database, atau buat manual:
 
 ```sql
 CREATE TABLE `users` (
